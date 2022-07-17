@@ -1,9 +1,12 @@
-### Oi Pessoas 👋
-Sou o Ramon, Em breve analista de Sistemas formado, programador JAVA, kotlin,  
+<div align="center">
+<h1>Olá Pessoas 👋</h1>
+<h2>Sou o Ramon, pessoa desenvolvedora, interressada em tecnologia da informação, desenvolvimento de software e analise de sistemas<h2>
 
-- 🔭 Atualmente sou servidor publico do Estado do Amazonas.
-- 🌱 Atualmente aprendendo a trabalhar com programação.
-
+<p>- 🔭 Sou servidor publico do Estado do Amazonas.</p>
+<p>- 🌱 Procuro uma oportunidade na área de desenvolvimento de software, analise de sistemas e Tecnologia da Informação.</p>
+<p>- 🌆​ Tenho connhecimentos em Java, Kotlin, MySQL, Linguagem R, HTML, CSS e JavaScript.</p>
+<p>- 💻​Familiariazado com o VSCode, IntelliJ, Worchbench MySQL.
+</div>
 <div align="center">
   <a href="https://github.com/ramonbr14">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonbr14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -28,8 +31,6 @@ Sou o Ramon, Em breve analista de Sistemas formado, programador JAVA, kotlin,
     
 </div>
 
-<div align="center" style="display: inline_block"><h2>Homenagem ao Nokia 6150</h2><br>
-  <div>
-  ![Snake animation](https://github.com/ramonbr14/ramonbr14/blob/output/github-contribution-grid-snake.svg)
-  </div>
+ ![Snake animation](https://github.com/ramonbr14/ramonbr14/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
