@@ -1,11 +1,12 @@
 <div align="center">
 <h1>Olá Pessoas 👋</h1>
-<h2>Sou o Ramon Santos, pessoa desenvolvedora interressada em tecnologia da informação, desenvolvimento de software e analise de sistemas. Buscando por opotunidades, desafios e experiênicias de trabalho na área<h2>
+<h2>Sou o Ramon Santos, pessoa desenvolvedora interessada em tecnologia da informação, desenvolvimento de software e analise de sistemas. Buscando por oportunidades, desafios e experiências de trabalho na área<h2>
 
 <p>- 🔭 Sou atualmente servidor público do Estado do Amazonas.</p>
-<p>- 🌱 Experiência acadêmica no curso de Tecnologo de Analise e Desenvolvimento de Sistemas.</p>
+<p>- 🌱 Experiência acadêmica no curso de Tecnólogo em Analise e Desenvolvimento de Sistemas.</p>
 <p>- 🌆​ Tenho conhecimentos em Java, Kotlin, MySQL, Linguagem R, HTML, CSS e JavaScript.</p>
-<p>- 💻​Familiariazado com o VSCode, IntelliJ, Workbench MySQL.
+<p>- 💻Familiarizado com o VSCode, IntelliJ, Workbench MySQL.
+
 </div>
 <div align="center">
   <a href="https://github.com/ramonbr14">
