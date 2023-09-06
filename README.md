@@ -35,3 +35,10 @@
  ![Snake animation](https://github.com/ramonbr14/ramonbr14/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div align="center" style="display: inline_block"><h2>AREA DA DIO.ME</h2><br>
+ <a href="https://dio.me/users/ramonbr14" target="_blank"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png?" target="_blank"></a><h3>Meu Perfil na DIO</h3><div> 
+<h3>MEU REPOSITÓRIO</h3>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ramonbr14&repo=ramonbr14&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ramonbr14/ramonbr14)
+</div>
