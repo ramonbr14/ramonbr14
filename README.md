@@ -27,20 +27,16 @@
 <div align="center" style="display: inline_block"><h2>Minhas redes sociais para contato</h2><br>
   <div> 
   <a href="https://www.linkedin.com/in/ramondevbr14/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/ramondevBr14" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/KEXVReGMMQ" target="_blank" style="display: none;"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/channel/UCgfzauRXAdYU0s4qwbX94-w" target="_blank" style="display: none;"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://www.facebook.com/ramonjogosEcodigos" target="_blank" style="display: none;"><img src="https://img.shields.io/badge/Facebook%20Live-ED4242?logo=facebooklive&logoColor=fff&style=for-the-badge" alt="Facebook Live Badge"></a>
+  <!--a href="https://twitter.com/ramondevBr14" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a-->
+  <!--a href="https://discord.gg/KEXVReGMMQ" target="_blank" style="display: none;"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a-->
+    <!--a href="https://www.youtube.com/channel/UCgfzauRXAdYU0s4qwbX94-w" target="_blank" style="display: none;"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a-->
+    <!--a href="https://www.facebook.com/ramonjogosEcodigos" target="_blank" style="display: none;"><img src="https://img.shields.io/badge/Facebook%20Live-ED4242?logo=facebooklive&logoColor=fff&style=for-the-badge" alt="Facebook Live Badge"></a-->
     
 </div>
 
- ![Snake animation](https://github.com/ramonbr14/ramonbr14/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
-<div align="center" style="display: inline_block"><h2>AREA DA DIO.ME</h2><br>
+<!--div align="center" style="display: inline_block"><h2>AREA DA DIO.ME</h2><br>
  <a href="https://dio.me/users/ramonbr14" target="_blank"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png?" target="_blank"></a><h3>Meu Perfil na DIO</h3><div> 
 <h3>MEU REPOSITÓRIO</h3>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ramonbr14&repo=ramonbr14&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ramonbr14/ramonbr14)
-</div>
+</div==>
