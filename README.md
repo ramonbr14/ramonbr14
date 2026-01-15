@@ -1,10 +1,10 @@
 <div align="center">
 <h1>Olá Pessoas 👋</h1>
-<h2>Sou o Ramon Santos, pessoa desenvolvedora interessada em tecnologia da informação, desenvolvimento de software e analise de sistemas. Buscando por oportunidades, desafios e experiências de trabalho na área<h2>
+<h2>Sou o Ramon Santos, desenvolvedor interessadO em tecnologia da informação, desenvolvimento de software e analise de sistemas. Buscando por oportunidades, desafios e experiências de trabalho na área<h2>
 
-<p>- 🔭 Sou atualmente servidor público do Estado do Amazonas.</p>
+<p>- 🔭 Sou atualmente servidor público do Municipio de Manaus.</p>
 <p>- 🌱 Experiência acadêmica no curso de Tecnólogo em Analise e Desenvolvimento de Sistemas.</p>
-<p>- 🌆​ Tenho conhecimentos em Java, Kotlin, MySQL, Linguagem R, HTML, CSS e JavaScript.</p>
+<p>- 🌆​ Tenho conhecimentos em Java, Kotlin, MySQL, Linguagem R, HTML, CSS e JavaScript, PHP E Laravel</p>
 <p>- 💻Familiarizado com o VSCode, IntelliJ, Workbench MySQL.
 
 </div>
@@ -20,7 +20,8 @@
   <img align="center" alt="Ramon-Java" height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Ramon-Kotlin" height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">   
   <img align="center" alt="Ramon-MySQL" height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">   
-  <img align="center" alt="Ramon-C++" height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">   
+  <img align="center" alt="Ramon-C++" height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Ramon-PHP" height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
           
 </div>
 <div align="center" style="display: inline_block"><h2>Minhas redes sociais para contato</h2><br>
