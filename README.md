@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Olá Pessoas 👋</h1>
-<h2>Sou o Ramon Santos, desenvolvedor interessadO em tecnologia da informação, desenvolvimento de software e analise de sistemas. Buscando por oportunidades, desafios e experiências de trabalho na área<h2>
+<h2>Sou o Ramon Santos, desenvolvedor interessado em tecnologia da informação, desenvolvimento de software e analise de sistemas. Buscando por oportunidades, desafios e experiências de trabalho na área<h2>
 
 <p>- 🔭 Sou atualmente servidor público do Municipio de Manaus.</p>
 <p>- 🌱 Experiência acadêmica no curso de Tecnólogo em Analise e Desenvolvimento de Sistemas.</p>
