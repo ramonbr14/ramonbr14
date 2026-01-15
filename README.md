@@ -28,9 +28,9 @@
   <div> 
   <a href="https://www.linkedin.com/in/ramondevbr14/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/ramondevBr14" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/KEXVReGMMQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/channel/UCgfzauRXAdYU0s4qwbX94-w" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://www.facebook.com/ramonjogosEcodigos" target="_blank"><img src="https://img.shields.io/badge/Facebook%20Live-ED4242?logo=facebooklive&logoColor=fff&style=for-the-badge" alt="Facebook Live Badge"></a>
+  <a href="https://discord.gg/KEXVReGMMQ" target="_blank" style="display: none;"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/UCgfzauRXAdYU0s4qwbX94-w" target="_blank" style="display: none;"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.facebook.com/ramonjogosEcodigos" target="_blank" style="display: none;"><img src="https://img.shields.io/badge/Facebook%20Live-ED4242?logo=facebooklive&logoColor=fff&style=for-the-badge" alt="Facebook Live Badge"></a>
     
 </div>
 
